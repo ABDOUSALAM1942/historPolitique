@@ -1,0 +1,63 @@
+.fleche {
+    width: 2rem;
+}
+.fle {
+    justify-content: center;
+}
+
+.historique {
+    justify-content: center;
+    margin: 5px;
+    margin-right: 10px;
+}
+#card1{
+    background-color: blue;
+    width: 18rem;
+    height: 18rem;
+    border-radius: 10px;
+}
+#card2{
+    margin-right: 5rem;
+    margin-left: 5rem;
+    margin-top: 3rem;
+    background-color: blue;
+    width: 18rem;
+    height: 18rem;
+    border-radius: 10px;
+}
+#card3 {
+    background-color: blue;
+    width: 18rem;
+    height: 18rem;
+    border-radius: 10px;
+    margin-top: 6rem;
+}
+
+.politique {
+    justify-content: center;
+    margin: 5px;
+    margin-right: 10px;
+}
+#card4{
+    background-color: rgb(16, 50, 73);
+    width: 18rem;
+    height: 18rem;
+    border-radius: 10px;
+}
+#card5{
+    margin-right: 5rem;
+    margin-left: 5rem;
+
+    background-color: rgb(16, 50, 73);
+    width: 18rem;
+    height: 18rem;
+    border-radius: 10px;
+}
+#card6 {
+    background-color: rgb(16, 50, 73);
+    width: 18rem;
+    height: 18rem;
+    border-radius: 10px;
+ 
+}
+
